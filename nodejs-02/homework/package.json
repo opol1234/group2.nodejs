@@ -1,0 +1,11 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "homework2 group patcharaporn_laksamee",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "patcharaporn_laksamee",
+  "license": "ISC"
+}
